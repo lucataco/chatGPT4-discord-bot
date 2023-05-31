@@ -1,0 +1,5 @@
+{
+        "token": "<YOUR_DISCORD_APP_TOKEN>",
+        "apiorg": "<YOUR_OPENAI_ORG>",
+        "apikey": "<YOUR_OPENAI_KEY>"
+}
